@@ -1,0 +1,1 @@
+Financial reporting is the responsibility of The Treasurer and is realised termly with a deadline of Wednesday Midday Week 9. It must cover all cashflows in this time period and a net cash balance in accordance with The Constitution.
