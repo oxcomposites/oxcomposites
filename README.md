@@ -18,12 +18,14 @@ The purpose of The Society is to:
 ## Article II: Membership
 1. Application for membership is open to all Oxford University students with an interest in composites.  
 2. No person shall be denied membership on the basis of race, gender, age, disability, nationality, religion, or sexual orientation.  
-3. Applications are reviewed by members of the Executive Committee and agreed by majority decision.  
-4. **Active members** are defined as students who:  
+3. Applications are reviewed by members of the Executive Committee and agreed by majority decision.
+4. Membership fees are decided by a majority decision of the Executive Committee and apply to all active members including members of the Executive Committee.  
+5. **Active members** are defined as students who:  
    - Attend at least one meeting per term, **and**  
-   - Participate in at least one project or society activity per year.  
-5. Only active members are eligible to vote in elections or constitutional amendments.  
-6. Membership may be suspended or terminated by the Executive Committee if a member’s conduct is deemed harmful to the society or its members.  
+   - Participate in at least one project or society activity per year.
+   - Have paid any fees or duties required.  
+6. Only active members are eligible to vote in elections or constitutional amendments.  
+7. Membership may be suspended or terminated by a majority decision of the Executive Committee if a member’s conduct is deemed harmful to the society or its members.  
 
 ---
 
