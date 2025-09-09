@@ -2,6 +2,7 @@
 
 ## Terms
 **The Society:** OxComposites  
+**End of Term** Wednesday Week 9 Midday
 
 ---
 
@@ -47,7 +48,7 @@ The purpose of The Society is to:
 1. Officers shall be elected annually by a majority of active members voting. 
 2. Voting may take place in person or online, provided all active members have the opportunity to participate.  
 3. Terms last for one academic year.  
-4. If an officer resigns or is unable to continue, an emergency election will be held at the next general meeting (or online within 2 weeks). Nominations will be accepted at least one week before the vote.  
+4. If an officer resigns or is unable to continue, an emergency election will be held at the next general meeting (or online within 2 weeks). Nominations will be acceptedby the Secretary at least one week before the vote.  
 5. Electons are the responsibility of the Secretary.
 
 ---
@@ -66,7 +67,7 @@ The purpose of The Society is to:
 3. All sponsorships must be approved by a majority of the Executive Committee.  
 4. All spending must be approved by a majority of the Executive Committee.  
 5. Society funds must be used exclusively for the benefit of the Society and its activities.  
-6. The Treasurer shall provide a public financial report at least once per term. This must include all cashflows within this period and the net balance.
+6. The Treasurer shall provide a public financial report before End of Term. This must include all transactions within this period, net cash flow for the term and the net balance.
 
 ---
 
