@@ -30,15 +30,16 @@ The purpose of The Society is to:
 1. The Society shall be led by an **Executive Committee** consisting of:  
    - **President**  
    - **Treasurer**  
-   - **Secretary**  
-2. One member may hold more than one role if necessary excluding President and Scretary.  
+   - **Secretary**
+2. One member may hold more than one role if necessary excluding President and Secretary.  
 3. A role may be shared by up to 2 members.  
 4. Duties of Officers:  
    - **President:** Chairs meetings, coordinates projects, and represents the society.  
    - **Treasurer:** Maintains accounts, manages funds, and presents a financial report once per term.  
-   - **Secretary:** Keeps meeting records, manages communications, and oversees membership applications.  
+   - **Secretary:** Keeps meeting records, manages communications, and oversees membership applications.
 5. Duties may be shared or delegated as agreed by the Executive Committee.  
-6. If the President resigns or is unable to continue, the Secretary shall act as interim President until an emergency election is held.  
+6. If the President resigns or is unable to continue, the Secretary shall act as interim President until an emergency election is held.
+7. Project Leaders will be assigned as needed by a majority decision of the Exectuive Comittee.  
 
 ---
 
@@ -47,7 +48,7 @@ The purpose of The Society is to:
 2. Voting may take place in person or online, provided all active members have the opportunity to participate.  
 3. Terms last for one academic year.  
 4. If an officer resigns or is unable to continue, an emergency election will be held at the next general meeting (or online within 2 weeks). Nominations will be accepted at least one week before the vote.  
-5. Electons are the responsibility of the Secretary
+5. Electons are the responsibility of the Secretary.
 
 ---
 
