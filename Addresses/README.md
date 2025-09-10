@@ -1,0 +1,1 @@
+Addresses are the responsibility of The President and is realised termly with a deadline of Wednesday Midday Week 1 in accordance with The Constitution. It should address any planned changes, projects and goals for the term.
