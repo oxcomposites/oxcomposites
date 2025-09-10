@@ -3,6 +3,7 @@
 ## Terms
 **The Society:** OxComposites  
 **End of Term** Wednesday Week 9 Midday
+**Start of Term** Wednesday Week 1 Midday
 
 ---
 
@@ -37,7 +38,7 @@ The purpose of The Society is to:
 2. One member may hold more than one role if necessary excluding President and Secretary.  
 3. A role may be shared by up to 2 members.  
 4. Duties of Officers:  
-   - **President:** Chairs meetings, coordinates projects, and represents the society.  
+   - **President:** Chairs meetings, coordinates projects, and represents the society. Releases termly presidents address by the Start of Term. 
    - **Treasurer:** Maintains accounts, manages funds, and presents a financial report once per term.  
    - **Secretary:** Keeps meeting records, manages communications, and oversees membership applications.
 5. Duties may be shared or delegated as agreed by the Executive Committee.  
